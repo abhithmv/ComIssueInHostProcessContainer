@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="ComExample.exe" version="1.0.0.0" />
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="ComClass" version="1.0.0.0"/>
+    </dependentAssembly>
+    </dependency>
+</assembly>

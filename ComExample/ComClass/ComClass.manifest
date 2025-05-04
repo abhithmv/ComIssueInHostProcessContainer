@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="ComClass" version="1.0.0.0" />
+  <clrClass clsid="{A1B2C3D4-E5F6-1234-5678-90ABCDEF1234}" progid="ComClass.HelloCom" threadingModel="Both" name="ComClass.HelloCom" runtimeVersion="v4.0.30319" />
+  <file name="ComClass.dll" hashalg="SHA1" />
+</assembly>
